@@ -2,6 +2,6 @@ idk
 
 ## stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=vynthefluff&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=rileyig&show_icons=true&theme=tokyonight)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vynthefluff&layout=compact&theme=tokyonight)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyig&layout=compact&theme=tokyonight)
