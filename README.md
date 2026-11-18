@@ -1,4 +1,3 @@
-idk
 
 ## stats
 
